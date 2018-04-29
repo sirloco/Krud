@@ -1,0 +1,2 @@
+# Krud
+Para Gestionar Socios
